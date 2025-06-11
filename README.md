@@ -130,6 +130,9 @@ pip install -r backend/requirements.txt
 
 ---
 
+<img width="1252" alt="image" src="https://github.com/user-attachments/assets/d97095ab-3299-4b27-9dfd-a674b26a797e" />
+
+
 ##  License
 
 MIT License © 2024 [Sai Eswar Guntaka]
