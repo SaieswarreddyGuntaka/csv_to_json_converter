@@ -1,4 +1,4 @@
-#  CSV to JSON Formatter
+#  CSV to JSON Converter
 
 A simple web application that allows users to upload a `.csv` file and receive a formatted `.json` response. Built with:
 
