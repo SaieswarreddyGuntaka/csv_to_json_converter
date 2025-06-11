@@ -95,14 +95,14 @@ JSON Output:
 ```json
 [
   {
-    "name": "Alice",
+    "name": "sai",
     "age": "30",
-    "email": "alice@example.com"
+    "email": "sai@example.com"
   },
   {
-    "name": "Bob",
+    "name": "eswar",
     "age": "25",
-    "email": "bob@example.com"
+    "email": "eswar@example.com"
   }
 ]
 ```
