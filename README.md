@@ -40,7 +40,7 @@ json-formatter/
 ### 1️ Clone or Download the Repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/SaieswarreddyGuntaka/csv_to_json_converter
 cd json-formatter
 ```
 
