@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background: #f0f2f5;
+}
+
+form {
+  margin-bottom: 1rem;
+}
+
+#output {
+  background-color: #fff;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  white-space: pre-wrap;
+  max-height: 400px;
+  overflow-y: scroll;
+}
