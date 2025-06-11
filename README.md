@@ -135,4 +135,4 @@ pip install -r backend/requirements.txt
 
 ##  License
 
-MIT License © 2024 [Sai Eswar Guntaka]
+MIT License © 2025 Sai Eswar Guntaka
