@@ -21,7 +21,7 @@ A simple web application that allows users to upload a `.csv` file and receive a
 ##  Project Structure
 
 ```
-json-formatter/
+json-coverter/
 ├── backend/
 │   ├── main.py               # Flask app with /upload endpoint
 │   ├── utils.py              # CSV-to-JSON conversion logic
@@ -41,7 +41,7 @@ json-formatter/
 
 ```bash
 git clone https://github.com/SaieswarreddyGuntaka/csv_to_json_converter
-cd json-formatter
+cd csv_to_json_converter
 ```
 
 Or [download the ZIP](#) and extract it.
